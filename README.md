@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently studying Computer Science in NTU.
 
-![Shun Ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunpingong&\&hide=stars,prs,issues&theme=buefy&show_icons=true)
+![Shun Ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunpingong&\&hide=stars,prs,issues&theme=shades-of-purple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=buefy)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=shades-of-purple)]
 
 
 ### Languages and Tools:
@@ -16,9 +16,4 @@
 <img align="left" alt="Project Jupyter" width="26px" src="https://avatars.githubusercontent.com/u/7388996?s=280&v=4" style="padding-right:10px;" />
 <img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" style="padding-right:10px;" />
 
-
-<!--
-**shunpingong/shunpingong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
