@@ -4,7 +4,7 @@
 
 ![Shun Ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunpingong&\&hide=stars,prs,issues&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=dark)](https://github.com/shunpingong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&layout=compact&theme=jolly)](https://github.com/shunpingong/github-readme-stats)
 
 
 ### Languages and Tools:
