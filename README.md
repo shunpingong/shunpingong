@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Computer Science in NTU.
 
-![Shun Ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunpingong&\&hide=stars,prs,issues&theme=blue-green&show_icons=true)
+![Shun Ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunpingong&\&hide=stars,prs,issues&theme=buefy&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=buefy)]
 
