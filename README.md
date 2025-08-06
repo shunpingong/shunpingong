@@ -6,8 +6,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shunpingong&hide=stars,prs,issues&theme=shades-of-purple&show_icons=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=shades-of-purple" height="150"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=shunpingong&hide=stars,prs,issues&theme=shades-of-purple&show_icons=true&count_private=true" height="150" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=shades-of-purple" height="150" /></td>
+    </tr>
+  </table>
 </div>
 
 ## 🛠️ Languages & Tools
