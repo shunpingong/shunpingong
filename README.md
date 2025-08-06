@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shunpingong&hide=stars,prs,issues&theme=shades-of-purple&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shunpingong&hide=stars,prs,issues&theme=shades-of-purple&show_icons=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&hide_progress=true&theme=shades-of-purple" height="150"/>
 </div>
 
