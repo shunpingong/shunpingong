@@ -16,7 +16,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science student at **Nanyang Technological University (NTU)**
 - 🧠 Interested in **AI, LLMs, backend systems & full-stack development**
-- 🛠 Currently building projects with **FastAPI, React, PostgreSQL & ML pipelines**
+- 🛠 Currently building projects with **FastAPI, React, PostgreSQL & AI**
 - 🌱 Always learning, always iterating
 
 ---
@@ -49,6 +49,6 @@
 ## 🔥 Current Focus
 ```text
 • AI / LLM pipelines
-• Backend systems (FastAPI, PostgreSQL)
-• Full-stack engineering (React + TypeScript)
+• Backend systems
+• Full-stack engineering
 • Writing clean, testable, scalable code
