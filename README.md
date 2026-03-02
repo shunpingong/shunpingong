@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shunpingong&hide=stars,issues,prs&theme=shades-of-purple&show_icons=true&count_private=true&border_radius=12" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunpingong&layout=compact&theme=shades-of-purple&hide_border=true&border_radius=12" height="160"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
