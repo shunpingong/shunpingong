@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#9b5de5;">Shun Ping</span>
+  Hi there, I'm <span style="color:#9b5de5;">Shun Ping</span>
 </h1>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science student at **Nanyang Technological University (NTU)**
-- 🧠 Interested in **AI, LLMs, backend systems & full-stack development**
-- 🛠 Currently building projects with **FastAPI, React, PostgreSQL & AI**
-- 🌱 Always learning, always iterating
+## About Me
+- Computer Science student at **Nanyang Technological University (NTU)**
+- Interested in **AI, LLMs, backend systems & full-stack development**
+- Currently building projects with **FastAPI, React, PostgreSQL & AI**
+- Always learning, always iterating
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 ```text
 • AI / LLM pipelines
 • Backend systems
@@ -55,7 +55,7 @@
 ```
 ---
 
-## 📫 Connect with me
+## Connect with me
 <p align="center">
   <a href="https://github.com/shunpingong">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
